@@ -1,2 +1,2 @@
-# gitSkills
-测试克隆远程git仓库
+# GitHub拉取测试
+测试拉取请求功能
